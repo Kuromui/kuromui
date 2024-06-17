@@ -1,4 +1,9 @@
-### Hi there 👋
+# Hi! Welcome to my profile.  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3phYzNhZDJoNzJ5NGVjMjJmdmRjY2dqcThxbWY2YTVtZGxocGN5biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/pr1dbVONbGeVvSiECh/giphy.gif" width="60"/>
+
+![Banner de Kuromui](/img/github-header-image%20(1).png)
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/karuink/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luz-vicent-gigante-b3aa03101/)
 
 <!--
 **Kuromui/kuromui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +19,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
