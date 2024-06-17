@@ -9,7 +9,7 @@
 👩🏻‍🎓 Studied Programming and Multiplatform Applications at Universidad Europea
 💭 Currently learning about Python and React✨
 
-##<img src=https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXUxbjRxeHpjcndtdnhsYXc5eGFtZ2VldzRmYnVnaDFxdjc2em5lNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZCes4khR2025X0rOLY/giphy.gif>**Tech Stack**
+##<img src=https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXUxbjRxeHpjcndtdnhsYXc5eGFtZ2VldzRmYnVnaDFxdjc2em5lNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZCes4khR2025X0rOLY/giphy.gif width="60">**Tech Stack**
 
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
