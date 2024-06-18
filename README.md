@@ -5,9 +5,9 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/karuink/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luz-vicent-gigante-b3aa03101/)
 
-👩🏻‍💻 Junior Full Stack developer
-👩🏻‍🎓 Studied Programming and Multiplatform Applications at Universidad Europea
-💭 Currently learning about Python and React✨
+👩🏻‍💻 Junior Full Stack developer</br>
+👩🏻‍🎓 Studied Programming and Multiplatform Applications at Universidad Europea</br>
+💭 Currently learning about Python and React✨</br>
 
 ##<img src=https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXUxbjRxeHpjcndtdnhsYXc5eGFtZ2VldzRmYnVnaDFxdjc2em5lNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZCes4khR2025X0rOLY/giphy.gif width="60">**Tech Stack**
 
