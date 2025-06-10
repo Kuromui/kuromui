@@ -1,4 +1,4 @@
-![Banner de Kuromui](/img/banner.png)
+![Banner de Kuromui](/img/banner2.png)
 
 # ✨ Hi! I'm Luz 👩🏻‍💻  
 
