@@ -1,3 +1,5 @@
+![Banner de Kuromui](/img/banner.png)
+
 # ✨ Hi! I'm Luz 👩🏻‍💻  
 
 📍 Junior Developer | Graduada en DAM  
@@ -7,7 +9,7 @@
 
 ---
 
-![Banner de Kuromui](/img/github-header-image%20(1).png)
+
 
 ### 🚀 Proyectos destacados:
 
@@ -43,4 +45,4 @@
 
 ---
 
-🛠️ *Siempre aprendiendo, creando y soñando en código.*
+🛠️ *Coding clean. Dreaming big.*
