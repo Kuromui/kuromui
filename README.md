@@ -16,7 +16,7 @@
 | Proyecto | Descripción | Tecnologías | Enlace |
 |---------|-------------|-------------|--------|
 | `OilFinder` | App Android para comparar precios de carburante por ubicación | Kotlin, Firebase, Maps SDK | [🔗 Ver repo](https://github.com/Kuromui/PROYECTO-APP---OilFinder) |
-| `K-Bubble` | Página web estática de bubble teas y mochis japoneses | HTML5, CSS3, responsive design | [🔗 Ver repo](https://github.com/Kuromui/K-Bubble) |
+| `K-Bubble` | Página web estática de bubble teas y mochis japoneses | HTML5, CSS3, responsive design | [🔗 Ver repo](https://github.com/Kuromui/Bubble-tea) |
 
 ---
 
