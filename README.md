@@ -1,5 +1,4 @@
 # ✨ Hi! I'm Luz 👩🏻‍💻  
-![kuromui](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3phYzNhZDJoNzJ5NGVjMjJmdmRjY2dqcThxbWY2YTVtZGxocGN5biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/pr1dbVONbGeVvSiECh/giphy.gif" width="60")
 
 📍 Junior Developer | Graduada en DAM  
 💡 Apasionada del desarrollo móvil y el diseño de interfaces  
